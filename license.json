@@ -1,13 +1,18 @@
 {
   "enabled": true,
   "requireCode": true,
-  "globalExpires": "2026-11-11",
+  "globalExpires": "2027-12-31",
   "message": "Cảm ơn đã dùng thử. Liên hệ số 0945925008 để tiếp tục sử dụng",
   "contact": "0945925008",
   "codes": {
     "8fc124ef14559c7f2d310b39b4531aa7c6c16bb0f80436872f7ef5283d964ba1": {
       "name": "THD thử",
       "expires": "2026-11-11",
+      "active": true
+    },
+    "a0c6c0cb7c83161d1696532f8efe669d7e01015d6d6ba5018b5fcd0aec1d38fb": {
+      "name": "Mozilla reviewer",
+      "expires": "2027-06-30",
       "active": true
     }
   }
