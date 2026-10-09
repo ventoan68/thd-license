@@ -14,6 +14,11 @@
       "name": "Mozilla reviewer",
       "expires": "2027-06-30",
       "active": true
+    },
+    "e8f99f42b93df16584add9eaff9a86f28100106e46bb226421b255a1e8e233c3": {
+      "name": "Thử 01",
+      "expires": "2026-10-12",
+      "active": true
     }
   }
 }
